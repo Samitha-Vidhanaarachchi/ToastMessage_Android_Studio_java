@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
 	int duration1 =Toast.LENGTH_LONG;
 	int duration2=Toast.LENGTH_LONG;
 
-
+// comment done for hacktoberfest
 
 
         LayoutInflater inflater = getLayoutInflater();
