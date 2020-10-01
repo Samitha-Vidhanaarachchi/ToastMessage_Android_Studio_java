@@ -20,6 +20,13 @@ public class MainActivity extends AppCompatActivity {
 
         int duration =Toast.LENGTH_LONG;
 
+// comment done for hacktoberfest
+
+	int duration1 =Toast.LENGTH_LONG;
+	int duration2=Toast.LENGTH_LONG;
+
+
+
 
         LayoutInflater inflater = getLayoutInflater();
         View layout = inflater.inflate(R.layout.custom_toast,(ViewGroup) findViewById(R.id.custom_layout_toast));
